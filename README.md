@@ -3,6 +3,8 @@
 Script bash per scaricare un episodio da `streamingcommunityz.style` a partire dalla sua URL di visione (`watch`).
 Fatto in parte con Claude.
 
+La sola finalità di questo programma è la didattica.
+
 ## Requisiti
 
 - `curl`
